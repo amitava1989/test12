@@ -8,6 +8,6 @@ public class TestResource {
 	@GetMapping("/hello")
 	public String getName() {
 		
-		return "Hola Mundo, Como estas!!";
+		return "Hola Mundo, Como esta!!";
 	}
 }
